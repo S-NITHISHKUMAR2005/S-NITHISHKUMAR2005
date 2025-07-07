@@ -33,6 +33,7 @@ I'm a passionate **B.Tech Information Technology** student at Karpagam College o
 
 ### Specializations
 <p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Science"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
