@@ -116,7 +116,7 @@ I'm a passionate **B.Tech Information Technology** student at Karpagam College o
   <a href="https://github.com/S-NITHISHKUMAR2005" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/nithishkumar1322" target="_blank">
+  <a href="https://leetcode.com/nithishkumar3122" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/nithishkumar31" target="_blank">
